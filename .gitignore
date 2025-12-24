@@ -66,4 +66,3 @@ Thumbs.db
 # TypeScript / Next
 # =========================
 next-env.d.ts
-*.local.ts
